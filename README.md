@@ -3,7 +3,7 @@
 
 👉 慕课网学习地址: http://coding.imooc.com/class/107.html
 
-👉 项目演示地址: https://bxm0927.github.io/vue-music-webapp/dist/ （*在 GitHub Pages 中，通过 jsonp 请求的数据会被正常渲染，而由于无 node 服务，通过 axios 请求的数据不会被正常渲染*）
+👉 项目演示地址: https://sweetjun.github.io/vue-music-webapp/dist/ （*在 GitHub Pages 中，通过 jsonp 请求的数据会被正常渲染，而由于无 node 服务，通过 axios 请求的数据不会被正常渲染*）
 
 基于 **Vue 全家桶 (2.x)** 制作的移动端音乐 WebApp ，一个媲美原生的移动端音乐 App，项目完整、功能完备、UI美观、交互一流。
 
