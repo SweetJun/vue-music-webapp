@@ -1,6 +1,10 @@
 
 # 移动端音乐 WebApp
 
+## 说明
+
+由于QQ音乐接口api更换的原因，之前项目在音乐播放，搜索等功能上已经不可用，本项目是在原有项目的基础上做了接口调整，目前项目功能基本完善。
+
 👉 慕课网学习地址: http://coding.imooc.com/class/107.html
 
 👉 项目演示地址: https://sweetjun.github.io/vue-music-webapp/dist/ （*在 GitHub Pages 中，通过 jsonp 请求的数据会被正常渲染，而由于无 node 服务，通过 axios 请求的数据不会被正常渲染*）
